@@ -1,5 +1,6 @@
 #ifndef STREET_H
 #define STREET_H
+#include <memory>
 
 #include "TrafficObject.h"
 
